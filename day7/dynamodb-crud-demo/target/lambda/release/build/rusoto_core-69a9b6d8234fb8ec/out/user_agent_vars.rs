@@ -1,0 +1,1 @@
+static RUST_VERSION: &'static str = "1.32.0";

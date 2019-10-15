@@ -1,0 +1,20 @@
+/code/target/lambda/release/deps/libcgmath-9dfacf0f5691acfb.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/conv.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/prelude.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/num.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/structure.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/matrix.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/quaternion.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/vector.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/angle.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/euler.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/point.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/rotation.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/transform.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/projection.rs /code/target/lambda/release/build/cgmath-0da38acbd1bfa7f5/out/swizzle_operator_macro.rs
+
+/code/target/lambda/release/deps/cgmath-9dfacf0f5691acfb.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/conv.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/prelude.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/num.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/structure.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/matrix.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/quaternion.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/vector.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/angle.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/euler.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/point.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/rotation.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/transform.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/projection.rs /code/target/lambda/release/build/cgmath-0da38acbd1bfa7f5/out/swizzle_operator_macro.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/conv.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/prelude.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/macros.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/num.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/structure.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/matrix.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/quaternion.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/vector.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/angle.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/euler.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/point.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/rotation.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/transform.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/cgmath-0.16.1/src/projection.rs:
+/code/target/lambda/release/build/cgmath-0da38acbd1bfa7f5/out/swizzle_operator_macro.rs:

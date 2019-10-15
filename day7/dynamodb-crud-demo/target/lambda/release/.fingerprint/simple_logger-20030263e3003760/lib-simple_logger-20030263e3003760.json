@@ -1,0 +1,1 @@
+{"rustc":11779505878581416876,"features":"[\"colored\", \"default\"]","target":2858382883774407451,"profile":5060393583489210841,"path":10948725608219452865,"deps":[["chrono v0.4.9","chrono",7833016690465623594],["colored v1.8.0","colored",3256685398793552077],["log v0.4.8","log",15367922603837660646]],"local":[{"Precalculated":"1.3.0"}],"rustflags":[],"edition":"Edition2015"}

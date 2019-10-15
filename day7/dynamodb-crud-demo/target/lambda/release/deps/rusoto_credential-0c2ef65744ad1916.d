@@ -1,0 +1,13 @@
+/code/target/lambda/release/deps/librusoto_credential-0c2ef65744ad1916.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/claims.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/container.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/environment.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/instance_metadata.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/profile.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/request.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/static_provider.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/test_utils.rs
+
+/code/target/lambda/release/deps/rusoto_credential-0c2ef65744ad1916.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/claims.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/container.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/environment.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/instance_metadata.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/profile.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/request.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/static_provider.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/test_utils.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/claims.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/container.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/environment.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/instance_metadata.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/profile.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/request.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/static_provider.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/rusoto_credential-0.15.0/src/test_utils.rs:

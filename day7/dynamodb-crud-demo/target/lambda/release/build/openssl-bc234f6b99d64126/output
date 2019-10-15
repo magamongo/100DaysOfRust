@@ -1,0 +1,3 @@
+cargo:rustc-cfg=osslconf="OPENSSL_NO_EC2M"
+cargo:rustc-cfg=osslconf="OPENSSL_NO_SRP"
+cargo:rustc-cfg=ossl101
