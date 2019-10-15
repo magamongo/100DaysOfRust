@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_OP=/code/target/lambda/release/build/typenum-8ba2d3c704b98df9/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/code/target/lambda/release/build/typenum-8ba2d3c704b98df9/out/op.rs
