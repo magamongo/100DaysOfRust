@@ -1,5 +1,3 @@
-org: magamongongo
-app: rust-dynamo-demo
 service: dynamodb-rust-demo
 provider:
   name: aws
